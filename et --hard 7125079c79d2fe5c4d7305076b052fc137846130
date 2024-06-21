@@ -1,0 +1,157 @@
+[33mcommit 4345bf36e9010a6b7f3b504918b1d3f49f7fb233[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mandroid-12[m[33m, [m[1;31morigin/android-12[m[33m)[m
+Author: Anya1014CN <han.cf@foxmail.com>
+Date:   Fri Jun 21 10:15:04 2024 +0800
+
+    init:Import init.recovery.usb.rc
+
+[33mcommit 7125079c79d2fe5c4d7305076b052fc137846130[m
+Author: Anya1014CN <han.cf@foxmail.com>
+Date:   Wed Jun 19 11:57:50 2024 +0800
+
+    Fix decryption
+
+[33mcommit cef643b86b92c4ddaf3dd93b3c65e5ee74ddc7b4[m
+Author: Anya1014CN <han.cf@foxmail.com>
+Date:   Mon Jun 17 14:30:10 2024 +0800
+
+    recovery:root:Dump missing blobs
+
+[33mcommit dbfefaf078b1006755b36074ba08225dc55134c9[m
+Author: Anya1014CN <han.cf@foxmail.com>
+Date:   Mon Jun 17 14:13:49 2024 +0800
+
+    system:etc:Dump task_profiles.json
+
+[33mcommit e14594d8d1006908a6611be303046d7de1b57b59[m
+Author: Anya1014CN <han.cf@foxmail.com>
+Date:   Mon Jun 17 14:11:10 2024 +0800
+
+    chopin:Dump fstab.mt6891
+
+[33mcommit f5578c93008dc044e85577a0be2ba132974d1769[m
+Author: Anya1014CN <han.cf@foxmail.com>
+Date:   Mon Jun 17 14:10:51 2024 +0800
+
+    chopin:Dump fstab.emmc
+
+[33mcommit d4483d789b5318991065e6d2c4a7a4b37275b6de[m
+Author: Anya1014CN <han.cf@foxmail.com>
+Date:   Mon Jun 17 14:09:40 2024 +0800
+
+    chopin:Dump fstab.mt6893
+
+[33mcommit 1c1eeee41edb6267703a6c58ea37cc085d56ae96[m
+Author: nadinsylaa <asepmlnaaa@gmail.com>
+Date:   Wed Jun 12 08:47:53 2024 +0800
+
+    [SQUASH] chopin: Import and build blobs for decryption
+
+[33mcommit 057465b2552b4a7fb776405d64bbc440e3c45d80[m
+Author: Anya1014CN <han.cf@foxmail.com>
+Date:   Tue Feb 13 09:49:29 2024 +0800
+
+    Add support for choping
+
+[33mcommit 7e06d67378068769a9c5258d1dd4af961de8173d[m
+Author: Anya1014CN <han.cf@foxmail.com>
+Date:   Mon Feb 12 16:51:38 2024 +0800
+
+    Disable haptic
+
+[33mcommit e964723760b3904ca06ae0288db60839ebb7d1cf[m
+Author: Anya1014CN <han.cf@foxmail.com>
+Date:   Tue Feb 13 09:47:16 2024 +0800
+
+    Update flags in vendorsetup.sh
+
+[33mcommit a188aa634b1c058178d372a29bbccdd85e537955[m
+Author: Anya1014CN <han.cf@foxmail.com>
+Date:   Mon Feb 12 14:56:18 2024 +0800
+
+    Fix userdata filesystem
+
+[33mcommit a3a6b3b584aac6014ef6e05bfac89d87231a6bfb[m
+Author: Anya1014CN <han.cf@foxmail.com>
+Date:   Mon Feb 12 14:55:28 2024 +0800
+
+    Move StatusBar CPU Temp and time
+
+[33mcommit f77335ae6cfcc2f1161538ec98658ac32f86882b[m
+Author: Anya1014CN <han.cf@foxmail.com>
+Date:   Mon Feb 12 14:54:25 2024 +0800
+
+    Add choping support
+
+[33mcommit 48bdfcd01563e75ab584ecd8777568d6ce597b7b[m
+Author: R E D F O X <95732139+FoxRedd@users.noreply.github.com>
+Date:   Wed Mar 23 11:27:03 2022 +0800
+
+    chopin: add TW_NO_SCREEN_BLANK
+    
+    Try if touch will work
+
+[33mcommit 0b229ee57293ddace5c322ea092a6eb0d6608c5d[m
+Author: mastersenpai05 <pampangavergil0405@gmail.com>
+Date:   Wed Mar 16 16:47:32 2022 +0800
+
+    chopin: add fix for touch
+
+[33mcommit 0971320840708a3f5558eef314bf76308d51c302[m
+Author: mastersenpai05 <pampangavergil0405@gmail.com>
+Date:   Wed Mar 16 16:15:38 2022 +0800
+
+    chopin: add decryption blobs for A12
+
+[33mcommit a5974962a5e8f488faca473a36adc35366cc43ac[m
+Author: mastersenpai05 <pampangavergil0405@gmail.com>
+Date:   Wed Mar 16 15:37:04 2022 +0800
+
+    chopin: make some clean up
+
+[33mcommit 841a5aa3dffce24cc0140588ce44f494620d9b6b[m
+Author: mastersenpai05 <pampangavergil0405@gmail.com>
+Date:   Wed Mar 16 15:27:42 2022 +0800
+
+    chopin: update touch firmware
+
+[33mcommit 45f846155af874cc8666e1b3cb70ec10fb68b98d[m
+Author: mastersenpai05 <pampangavergil0405@gmail.com>
+Date:   Wed Mar 16 15:24:41 2022 +0800
+
+    chopin: update kernel to android 12
+
+[33mcommit dbbc64c52c37812a8b33776cfa5ef55cebd63d86[m
+Author: mastersenpai05 <pampangavergil0405@gmail.com>
+Date:   Tue Jan 4 09:54:00 2022 +0800
+
+    chopin: add more firmware
+
+[33mcommit b5b5b548477a6518b27971a2a27673c73ee7a22b[m
+Author: R E D F O X <95732139+FoxRedd@users.noreply.github.com>
+Date:   Thu Dec 9 15:58:40 2021 +0800
+
+    chopin: define target fstab
+
+[33mcommit 6b663edf84beb1b8407b0774b1c65c13b15aa6c0[m
+Author: R E D F O X <95732139+FoxRedd@users.noreply.github.com>
+Date:   Thu Dec 9 15:56:21 2021 +0800
+
+    fstab: move fstab
+
+[33mcommit 785a00e58aa95d5dc4ac72e2ce8d3d43ca975783[m
+Author: R E D F O X <95732139+FoxRedd@users.noreply.github.com>
+Date:   Wed Dec 8 12:58:41 2021 +0800
+
+    fox: fix missing
+
+[33mcommit e1d13f5991ded0044145e3105849579d454042a2[m
+Author: foxredd <foxred37746@gmail.com>
+Date:   Wed Dec 8 12:53:12 2021 +0800
+
+    magisk: change specific magisk
+
+[33mcommit 92c99fab0de1a7e8d348890c11173206dcb5d930[m
+Author: mastersenpai05 <pampangavergil0405@gmail.com>
+Date:   Wed Dec 8 12:42:27 2021 +0800
+
+    chopin: Initial commit
